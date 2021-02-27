@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "secp256k1.h": "c",
+        "main_impl.h": "c",
+        "secp256k1_rangeproof.h": "c"
+    }
+}
